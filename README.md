@@ -27,7 +27,7 @@
 
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
 ```bash
-git clone https://github.com/JoseSReyes/Currency_Converter
+git clone https://github.com/josesreyesdev/Currency-Converter
 ```
 2. Navega al directorio del proyecto:
 ```bash
@@ -61,7 +61,7 @@ java Main
 
 ![converted_result](https://github.com/josesreyesdev/Currency-Converter/assets/37203999/fd2c0095-4805-44ad-93d1-973bb483253e)
 
-* Posteriormente, puedes ingresar **n** si **NO** deseas continuar con la ejecución, 
+* Posteriormente, puedes inresar **n** si **NO** deseas continuar con la ejecución, 
 de lo contrario puedes escribrir cualquier otro caracter para hacer otra consulta y se repite
 cada punto del inciso 2.
 
