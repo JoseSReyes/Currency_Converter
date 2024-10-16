@@ -27,7 +27,7 @@
 
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
 ```bash
-git clone https://github.com/josesreyesdev/Currency-Converter
+git clone https://github.com/JoseSReyes/Currency_Converter
 ```
 2. Navega al directorio del proyecto:
 ```bash
